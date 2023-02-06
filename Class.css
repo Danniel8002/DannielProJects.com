@@ -1,0 +1,19 @@
+.Text{
+   height: 17px;
+   width: 135px;
+   display: inline-block;
+   margin-left: 20px;
+   border: solid;
+   border-width: 2px;
+   border-color: #FF780A;
+   background-color: #FFB34F;
+}
+.Date{
+   height: 17px;
+   border: outline;
+   border-width: 2px;
+   width: 100px;
+   margin: 0;
+   border-color: #FF780A;
+   background-color: #FFB34F;
+}
